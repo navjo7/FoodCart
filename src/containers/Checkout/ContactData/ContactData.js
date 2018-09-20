@@ -2,7 +2,6 @@ import React, {Component} from 'react'
 import Button from '../../../components/UI/Button/Button'
 import Spinner from '../../../components/UI/Spinner/Spinner'
 import classes from './ContactData.css'
-// import axios from 'axios'
 import axios from '../../../axios-orders'
 import Input from '../../../components/UI/Input/Input'
 class ContactData extends Component{
